@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sanket Kumar!  
-I am currently 3rd year BS-MS student at Department of Physical Sciences,Indian Institute of Science Education and Research, Kolkata.
+I am currently 3rd year BS-MS student at Department of Physical Sciences, Indian Institute of Science Education and Research, Kolkata.
 
 I'm still honing my skills in basic Maching Learning, as well as programming with C, C++ and Python. I have some experience with LaTeX, primarily in creating scientific documents, presentations, or typesetting mathematical content.
 
